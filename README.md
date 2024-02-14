@@ -24,3 +24,8 @@ Para executar o **GitHub Finder** localmente, siga os passos abaixo:
 3. Instale as dependências: npm install
 4. Execute a aplicação: npm run dev
 5. A aplicação estará disponível em `http://localhost:5173/`. 
+
+## Prints do Projeto
+
+![image](https://github.com/guikipper/github-finder/assets/33471042/71a97ac3-99e8-4eb0-8c11-5a3cc52412f1)
+![image](https://github.com/guikipper/github-finder/assets/33471042/7b5eb833-3f20-4d56-a5e0-f33979701078)
